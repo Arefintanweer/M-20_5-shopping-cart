@@ -1,3 +1,4 @@
+//module 20.5,21,21.5 included here
 document.getElementById('case-increase').addEventListener('click', function() {
     var caseInput = document.getElementById('case-count');
     const caseCount = parseInt(caseInput.value);
@@ -73,3 +74,4 @@ document.getElementById('phone-decrease').addEventListener('click',function(){
  * 20.5.2 Shopping cart, developing an interactive cart
  *      making a shopping cart
  */
+
